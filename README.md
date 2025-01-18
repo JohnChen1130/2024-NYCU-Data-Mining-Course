@@ -7,3 +7,4 @@ The assignment is to predict whether a character will die and generate a decisio
 3. HW2 - Sentiment analysis
 4. HW3 - Time Series Regression  
 This assignment will use air quality data from Hsinchu for October to December 2021 to perform time series analysis and regression forecasting of PM2.5 values.
+5. HW4 - Sentiment Analysis 2
